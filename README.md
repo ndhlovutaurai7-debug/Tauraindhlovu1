@@ -1,4 +1,5 @@
 # Tauraindhlovu1
+cloning : git clone (repository link) from git webside
 these are the four types of status:
     1.Modified: Changes detected in your file
     2.Staged: File is ready to be sibmitted
