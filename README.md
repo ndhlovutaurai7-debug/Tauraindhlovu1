@@ -6,5 +6,6 @@ these are the four types of status:
     4.Untracked: New files that git doesnt yet track
 
 To save the changes:
-    1. git add (file name)
-    2. git commit-m (same change)
+    1. git add (file name) #instead of file name put dot(.) all the files will be saved once
+    2. git commit-m (some change)
+    3. git push origin main
